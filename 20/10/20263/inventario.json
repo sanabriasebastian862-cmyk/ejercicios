@@ -1,0 +1,26 @@
+[
+    {
+        "categoria": "llantas",
+        "codigo": "PEP01",
+        "nombre": "Llanta rin 17",
+        "stock": 10
+    },
+    {
+        "categoria": "aceites",
+        "codigo": "PEP02",
+        "nombre": "Aceite Motul 7100",
+        "stock": 5
+    },
+    {
+        "categoria": "cadenas",
+        "codigo": "PEP03",
+        "nombre": "cadena de rodamiento",
+        "stock": 15
+    },
+        {
+        "categoria": "cadenas",
+        "codigo": "PEP04",
+        "nombre": "pastilla de frenos",
+        "stock": 2
+    }
+]
