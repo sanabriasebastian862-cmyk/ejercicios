@@ -11,7 +11,7 @@ async def leer_base_datos():
             contenido = await f.read()
             return json.loads(contenido)
     except FileNotFoundError:
-        return []  # Lista vacía
+        return [] 
 
 async def guardar_base_datos(datos):
     async with aiofiles.open(ARCHIVO_BD, mode="w", encoding="utf-8") as f:
